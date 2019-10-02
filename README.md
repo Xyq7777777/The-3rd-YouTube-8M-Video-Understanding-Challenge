@@ -12,7 +12,10 @@ For researchers, college students and ordinary youtube users who want to retriev
   3. Ordinary youtube users
 
 #### User Stories
-1. As 
+1. I, the researcher, should be able to get a result with at least 70% accuracy from this model.
+2. I, the college student, should be able to receive the source code of this model so that I can improve it.
+3. I, the ordinary youtube user, should be able to know the duration of the moments I want in the video.
+
 
 #### MVP
 
