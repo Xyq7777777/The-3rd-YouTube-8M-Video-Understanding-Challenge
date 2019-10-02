@@ -2,11 +2,17 @@
 ## Sprint 1
 
 ### Product Definition
+
 #### Product Mission
+For researchers, college students and ordinary youtube users who want to retrieve a specific moment, such as a scene, an object or an action from youtube videos, this product can identify whether a youtube video may satisfy their requests. If the video contains the specific moments the users required, it can output the time when the moments happen in the video. 
 
 #### Target User(s)
+  1. Researchers
+  2. College students
+  3. Ordinary youtube users
 
 #### User Stories
+1. As 
 
 #### MVP
 
