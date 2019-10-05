@@ -18,8 +18,13 @@ For researchers, college students and ordinary youtube users who want to retriev
 
 
 #### MVP
-
+The minimum product should satisfy the following requirements:
+  1. the module can perform object detection with a specific accuracy
+  2. the module can store the searching result for users.
+  
 #### User Interface Design for main user story if required
+
+Users are allowed to pick up a label to search for.
 
 ### Product Survey
 
