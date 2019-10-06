@@ -29,6 +29,11 @@ Users are allowed to pick up a label to search for.
 ### Product Survey
 
 #### Existing similar products
+ The YOLO detection system: 
+      It's easy to process images, it runs a convolutional network on the image and thresholds the resulting detections by the module's       confidence.
+      It can predict what objects are present and where they are.
+      Benefits: extremely fast, high precision, reasons globally about the image when making predictions. 
+
 
 #### Patent Analysis
 
