@@ -16,6 +16,9 @@ I, the general public, would like to have more accurate searching results even i
 I, the general public, would like to have timing indicator jumps to the direct results I want in a video.</br>
 I, the researchers, would like to collect the searching ddata and then analyze the which part of the video is more valuable to users in general.</br>
 I, the merchants, would like to know when to advertise my product in the video based on collected data.</br>
+I, the researcher, should be able to get a result with at least 70% accuracy from this model.</br>
+I, the researcher, should be able to receive the source code of this model so that I can improve it.</br>
+I, the general public, should be able to know the duration of the moments I want in the video.</br>
 I, the merchants and researchers, would like to know the most popular keywords for searching recently.
 
 #### MVP
