@@ -20,6 +20,8 @@ I, the merchants and researchers, would like to know the most popular keywords f
 
 #### MVP
 
+Find out the information stored in non-literal format such as videos or photos which may be related to the keywords provided by users.
+
 #### User Interface Design for main user story if required
 
 ### Product Survey
