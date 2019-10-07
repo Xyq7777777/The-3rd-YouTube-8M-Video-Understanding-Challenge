@@ -24,6 +24,8 @@ Find out the information stored in non-literal format such as videos or photos w
 
 #### User Interface Design for main user story if required
 
+It should have a place for users to enter the keywords and output the results containing the timing indicator for every possibly related video listed.
+
 ### Product Survey
 
 #### Existing similar products
