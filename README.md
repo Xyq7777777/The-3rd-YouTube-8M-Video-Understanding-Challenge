@@ -34,6 +34,8 @@ It should have a place for users to enter the keywords and output the results co
 
 ### System Design
 
+<img src="https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/CYW/%E6%9C%AA%E5%91%BD%E5%90%8D.jpg" />
+
 ### Major Components you think you will use
 
 #### Technology Selection and reason behind selection including comparisons
