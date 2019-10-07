@@ -13,8 +13,8 @@ For researchers, college students and ordinary youtube users who want to retriev
 
 #### User Stories
 1. I, the researcher, should be able to get a result with at least 70% accuracy from this model.
-2. I, the college student, should be able to receive the source code of this model so that I can improve it.
-3. I, the ordinary youtube user, should be able to know the duration of the moments I want in the video.
+2. I, the researcher, should be able to receive the source code of this model so that I can improve it.
+3. I, the general public, should be able to know the duration of the moments I want in the video.
 
 
 #### MVP
@@ -30,7 +30,7 @@ Users are allowed to pick up a label to search for.
 
 #### Existing similar products
  The YOLO detection system: 
-      It's easy to process images, it runs a convolutional network on the image and thresholds the resulting detections by the module's       confidence.
+      It's easy to process images, it runs a convolutional network on the image and thresholds the resulting detections by         the module's confidence.
       It can predict what objects are present and where they are.
       Benefits: extremely fast, high precision, reasons globally about the image when making predictions. 
 
