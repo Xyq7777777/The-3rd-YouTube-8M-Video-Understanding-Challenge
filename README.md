@@ -33,6 +33,8 @@ It should have a place for users to enter the keywords and output the results co
 
 #### Existing similar products
 
+The YOLO detection system: It's easy to process images, it runs a convolutional network on the image and thresholds the resulting detections by the module's confidence. It can predict what objects are present and where they are. Benefits: extremely fast, high precision, reasons globally about the image when making predictions. [https://pjreddie.com/darknet/yolo/]
+
 #### Patent Analysis
 
 ### System Design
