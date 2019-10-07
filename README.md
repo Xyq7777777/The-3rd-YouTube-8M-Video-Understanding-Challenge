@@ -71,12 +71,3 @@ S4. Carrying out bounding-box regression on the initial object window through a 
 
 #### Any test or verification programs
 
-### Administrative
-
-#### Project Lead: 
-##### Sprint presentation for the class. 10/7 due.
-##### Handover to Sprint 2 project lead
-##### Sprint 2 Project Lead:
-
-### Sprint 2 plan and assignments
-
