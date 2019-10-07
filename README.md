@@ -39,7 +39,11 @@ The YOLO detection system: It's easy to process images, it runs a convolutional 
 
 1. CN107247956A-Fast target detection method based on grid judgment 
 
-The invention discloses a fast target detection method based on grid judgment. The method comprises the following steps: S1, gridding an image; S2, extracting the features of the grid areas; S3, judging and merging the grids: first, judging whether each grid belongs to a specified target object according to a regression model trained in advance, and then, merging the grids into an initial object window according to the object category to which each grid belongs; and S4, carrying out bounding-box regression on the initial object window through a bounding-box regression method. The accuracy and speed of target detection can both be ensured.
+The invention discloses a fast target detection method based on grid judgment. The method comprises the following steps: 
+S1 gridding an image;  
+S2 extracting the features of the grid areas.  
+S3 judging and merging the grids: first, judging whether each grid belongs to a specified target object according to a regression model trained in advance, and then, merging the grids into an initial object window according to the object category to which each grid belongs.  
+S4 carrying out bounding-box regression on the initial object window through a bounding-box regression method. The accuracy and speed of target detection can both be ensured.  
 
 2.
 
