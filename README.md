@@ -4,6 +4,8 @@
 ### Product Definition
 #### Product Mission
 
+This product aims to help users search for certain elements within a video quickly, efficiently and correctly. The topic, hashtags, subtitles are the literal keys for searching while the images, screeshots may also contain desired results in graphical format. Digging out the information stored in a video which has no literal description to look up is our primary goal. Once the product is completed, the results after searching is going to be more related to the keywords users entered with the timing indicator installed.
+
 #### Target User(s)
 
 #### User Stories
