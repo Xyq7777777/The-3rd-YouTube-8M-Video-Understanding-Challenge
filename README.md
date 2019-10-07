@@ -12,10 +12,10 @@ General public, researchers, merchants.
 
 #### User Stories
 
-I, the general public, would like to have more accurate searching results even in non-literal format.
-I, the general public, would like to have timing indicator jumps to the direct results I want in a video.
-I, the researchers, would like to collect the searching ddata and then analyze the which part of the video is more valuable to users in general.
-I, the merchants, would like to know when to advertise my product in the video based on collected data.
+I, the general public, would like to have more accurate searching results even in non-literal format.</br>
+I, the general public, would like to have timing indicator jumps to the direct results I want in a video.</br>
+I, the researchers, would like to collect the searching ddata and then analyze the which part of the video is more valuable to users in general.</br>
+I, the merchants, would like to know when to advertise my product in the video based on collected data.</br>
 I, the merchants and researchers, would like to know the most popular keywords for searching recently.
 
 #### MVP
