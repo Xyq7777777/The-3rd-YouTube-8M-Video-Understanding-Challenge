@@ -45,7 +45,9 @@ S2. Extracting the features of the grid areas.
 S3. Judging and merging the grids: first, judging whether each grid belongs to a specified target object according to a            regression model trained in advance, and then, merging the grids into an initial object window according to the object category to which each grid belongs.  
 S4. Carrying out bounding-box regression on the initial object window through a bounding-box regression method. The accuracy and speed of target detection can both be ensured.  
 
-2.
+2. CN106886795A-Object identification method based on substantial object in image 
+
+   The invention relates to an object identification method based on a substantial object in an image. The method comprises that in a training process, a classification database which comprises first characteristic vectors for describing objects is established; and in an identification process, a picture including objects is input to a deep convolutional neural network, and divided into M*M grids, each grid predicts N candidate frames to obtain the probability that objects exist in the frame, when the object probability is greater than or equivalent to a predetermined threshold, the candidate frame is selected as a first effective candidate frame, an image of the first effective candidate frame is input to a classified neural network to obtain a second characteristic vector, and a k nearest neighbor (KNN) classification algorithm is executed to obtain a class of the object on the basis of the second and first characteristic vectors and the classification database.
 
 ### System Design
 
