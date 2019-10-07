@@ -8,6 +8,8 @@ This product aims to help users search for certain elements within a video quick
 
 #### Target User(s)
 
+General public, researchers, merchants.
+
 #### User Stories
 
 #### MVP
