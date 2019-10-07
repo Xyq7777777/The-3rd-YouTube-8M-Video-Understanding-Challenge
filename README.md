@@ -71,3 +71,6 @@ S4. Carrying out bounding-box regression on the initial object window through a 
 
 #### Any test or verification programs
 
+We are still learining how to detect real time objects.
+[https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/]
+
