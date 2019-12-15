@@ -86,7 +86,7 @@ We are still learining how to detect real time objects.
 
    After having the knowledge on how the algorithm process, we would like to further the ability of detecting only one object which is designated by users' input. We eliminated the bounding box of non-keyword labels, leaving the only desire label output be presented in the generated video after processing.
    
-<只有一個label的截圖>
+![Image text](https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/master/read_1.png)
 
 ### Timing Return
 
