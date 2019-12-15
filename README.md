@@ -51,7 +51,7 @@ S4. Carrying out bounding-box regression on the initial object window through a 
 
 ### System Design
 
-[Image text](https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/master/sys.png)
+![Image text](https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/master/sys.png)
 
 ### Major Components you think you will use
 
