@@ -61,9 +61,9 @@ S4. Carrying out bounding-box regression on the initial object window through a 
    
     We will use Python as our primary developing language and do the training part of the algotrithm. The reason using Python is that it is widely-accessible language and the starting code provided by the competition is also written in Python. In addition, some sample exercises uploaded by other groups are also written in Python. It will be convevient for us, especially not having any machine-learning background, to learn from.
    
-2. Youtube API
+2. OpenCV
 
-    Youtube API will help us grab the existing videos with specific terms or labels on Youtube platform. It basically acts like Twitter API that we used for mini-project 1. We can, therefore, have some dataset to train and have some testing bench to verify.  Since this competition is Youtube-based, it should be better to grab the source directly from where analysis needed. 
+    OpenCV is a library contains lots of functions related to image processing and video manipulation. We will include these functions to help us deal with the videos consisting of frames.
 
 3. YOLO frame-based object detection
 
@@ -74,3 +74,19 @@ S4. Carrying out bounding-box regression on the initial object window through a 
 We are still learining how to detect real time objects.
 [https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/]
 
+
+##Sprint 2
+
+###Basic Detection
+
+###Designated Object Detection
+
+###Timing Return
+
+##Sprint 3
+
+###User Interface
+
+###Pop out Labeled Sections 
+
+###Training Method
