@@ -80,7 +80,7 @@ We are still learining how to detect real time objects.
 
    In this stage, we tried to run the basic YOLO algorithm on certain videos. With the original design, the objects within a video can all be identified and labeled. The bounding box contains the label name and the confidence of that specific detection.
    
-<所有label都有顯示的截圖>
+![Image text](https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/master/read_all.png)
 
 ### Designated Object Detection
 
