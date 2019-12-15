@@ -74,19 +74,19 @@ S4. Carrying out bounding-box regression on the initial object window through a 
 We are still learining how to detect real time objects.
 [https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/]
 
+## Sprint 2
 
-##Sprint 2
+### Basic Detection
 
-###Basic Detection
+### Designated Object Detection
 
-###Designated Object Detection
+### Timing Return
 
-###Timing Return
 
-##Sprint 3
+## Sprint 3
 
-###User Interface
+### User Interface
 
-###Pop out Labeled Sections 
+### Pop out Labeled Sections 
 
-###Training Method
+### Training Method
