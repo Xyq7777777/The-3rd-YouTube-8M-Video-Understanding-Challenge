@@ -100,7 +100,7 @@ We are still learining how to detect real time objects.
 
    Since we need the inputs from users, we may limit the input options to the model we provided. Otherwise, the input may go beyond the label we can do the service for them. We implemented this by tk which is a supported library for Python. In "coco", we support 80 labels and we, therefor, make a scroll box for keyword input so that there will not be any invalid inputs. The input file should be under the same folder as our script and model. The path field is designed for detection models which leave a possible development that users/ developers may want to import their own models with higher accuracy or more keywords(labels) supported in future. 
 
-<UI的截圖,有能下拉的>
+![Image text](https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/master/601_7.jpg)
 
 ### Pop out Labeled Sections 
 
