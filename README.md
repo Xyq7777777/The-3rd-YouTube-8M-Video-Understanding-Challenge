@@ -114,7 +114,7 @@ We are still learining how to detect real time objects.
 
    We used the coco dataset which contains thousands of images to train. In addition, darknet files are used in the process to help us set the parameters such as image size, training rate, learning rate, image angles and so on. It also has a basic sample script of grabbing frames in a video for us to develop on.
    
-<training的terminal截圖>
+![Image text](https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/master/601_2.png)
 
 ## Reference
 1. YOLO website with different generations and link to coco dataset https://pjreddie.com/darknet/yolo/ </br>
