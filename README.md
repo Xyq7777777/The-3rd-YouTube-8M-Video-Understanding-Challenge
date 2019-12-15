@@ -122,5 +122,11 @@ We are still learining how to detect real time objects.
 5. Counting time on videos by frames https://stackoverflow.com/questions/2017843/fetch-frame-count-with-ffmpeg </br>
 
 ## Work Distribution
+Sprint1: Building basical object detection algorithm: Lingtao Jiang & Yi-Wei Chen & Yaqun Xia
 
+Sprint2: Improving algorithm to detect specific object and implement returning the time of the detected object in the video:
+Yi-Wei Chen & Lingtao Jiang
+
+Sprint3: Makeing the user interface and implementing poping out the labeled sections of the detected video: Lingtao Jiang & Yi-Wei Chen
+Attempt to training the coco dataset: Lingtao Jiang & Yi-Wei Chen & Yaqun Xia
 
