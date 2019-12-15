@@ -116,6 +116,8 @@ We are still learining how to detect real time objects.
    
 ![Image text](https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/master/601_2.png)
 
+![Image text](https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/master/601_3.png)
+
 ## Reference
 1. YOLO website with different generations and link to coco dataset https://pjreddie.com/darknet/yolo/ </br>
 2. Tutorial on training https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/ </br>
