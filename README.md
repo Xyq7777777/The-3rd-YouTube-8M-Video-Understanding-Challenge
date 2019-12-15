@@ -115,11 +115,11 @@ We are still learining how to detect real time objects.
 <training的terminal截圖>
 
 ## Reference
-1. <YOLO website with different generations and link to coco dataset> https://pjreddie.com/darknet/yolo/ </br>
-2. <Tutorial on training> https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/ </br>
-3. <Basic YOLO algorithm detecting all labels> https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/ </br>
-4. <OpenCV tutorial> https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html </br>
-5. <Counting time on videos by frames> https://stackoverflow.com/questions/2017843/fetch-frame-count-with-ffmpeg </br>
+1. YOLO website with different generations and link to coco dataset https://pjreddie.com/darknet/yolo/ </br>
+2. Tutorial on training https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/ </br>
+3. Basic YOLO algorithm detecting all labels https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/ </br>
+4. OpenCV tutorial https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html </br>
+5. Counting time on videos by frames https://stackoverflow.com/questions/2017843/fetch-frame-count-with-ffmpeg </br>
 
 ## Work Distribution
 
