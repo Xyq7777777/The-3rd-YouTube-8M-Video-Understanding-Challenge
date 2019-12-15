@@ -128,5 +128,6 @@ Sprint2: Improving algorithm to detect specific object and implement returning t
 Yi-Wei Chen & Lingtao Jiang
 
 Sprint3: Makeing the user interface and implementing poping out the labeled sections of the detected video: Lingtao Jiang & Yi-Wei Chen
+
 Attempt to training the coco dataset: Lingtao Jiang & Yi-Wei Chen & Yaqun Xia
 
