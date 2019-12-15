@@ -51,7 +51,7 @@ S4. Carrying out bounding-box regression on the initial object window through a 
 
 ### System Design
 
-<img src="https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/CYW/%E6%9C%AA%E5%91%BD%E5%90%8D.jpg" />
+<新的architecture圖>
 
 ### Major Components you think you will use
 
@@ -78,15 +78,45 @@ We are still learining how to detect real time objects.
 
 ### Basic Detection
 
+   In this stage, we tried to run the basic YOLO algorithm on certain videos. With the original design, the objects within a video can all be identified and labeled. The bounding box contains the label name and the confidence of that specific detection.
+   
+<所有label都有顯示的截圖>
+
 ### Designated Object Detection
+
+   After having the knowledge on how the algorithm process, we would like to further the ability of detecting only one object which is designated by users' input. We eliminated the bounding box of non-keyword labels, leaving the only desire label output be presented in the generated video after processing.
+   
+<只有一個label的截圖>
 
 ### Timing Return
 
+   Having the ability to identify keyword-only objects, we would like to mark down the specific timing and return to users. In this part, we had the main python script store a list containing all timing and then print the list onto a text file. The ffmpeg library is , thereby, included. The algorithm can actuall identify timing in millisecond scale (since we are counting by the frame number), but we made it round to second scale because of the practical use. For the future step, pop out the desired sections, we may use this text file to help our algorithm fulfill the goal.    
+
+<顯示timing的txt file截圖>
 
 ## Sprint 3
 
 ### User Interface
 
+   Since we need the inputs from users, we may limit the input options to the model we provided. Otherwise, the input may go beyond the label we can do the service for them. We implemented this by tk which is a supported library for Python. In "coco", we support 80 labels and we, therefor, make a scroll box for keyword input so that there will not be any invalid inputs. The input file should be under the same folder as our script and model. The path field is designed for detection models which leave a possible development that users/ developers may want to import their own models with higher accuracy or more keywords(labels) supported in future. 
+
+<UI的截圖,有能下拉的>
+
 ### Pop out Labeled Sections 
 
+   We had the script read the timing text file (in sprint 2) after processing to know which sections to show automatically. Therefore, users should see the sections of desired keyword directly after closing the UI window and the whole processed video can also be accessed manually within the same folder.
+   
+<跑完之後Popout的截圖>
+
 ### Training Method
+
+   We used the coco dataset which contains thousands of images to train. In addition, darknet files are used in the process to help us set the parameters such as image size, training rate, learning rate, image angles and so on. It also has a basic sample script of grabbing frames in a video for us to develop on.
+   
+<training的terminal截圖>
+
+## Reference
+<YOLO 官網> https://pjreddie.com/darknet/yolo/
+<教我們train只有一個object雪人網站> https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/
+<最主要一開始查到的YOLO detection網站> https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
+<openCV官網> https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
+<stack overflow裡教我們按frame計時的網站> https://stackoverflow.com/questions/2017843/fetch-frame-count-with-ffmpeg
