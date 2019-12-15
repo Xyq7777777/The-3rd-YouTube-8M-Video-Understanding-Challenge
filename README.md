@@ -115,8 +115,12 @@ We are still learining how to detect real time objects.
 <training的terminal截圖>
 
 ## Reference
-<YOLO 官網> https://pjreddie.com/darknet/yolo/
-<教我們train只有一個object雪人網站> https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/
-<最主要一開始查到的YOLO detection網站> https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
-<openCV官網> https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
-<stack overflow裡教我們按frame計時的網站> https://stackoverflow.com/questions/2017843/fetch-frame-count-with-ffmpeg
+<YOLO 官網> https://pjreddie.com/darknet/yolo/ </br>
+<教我們train只有一個object雪人網站> https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/ </br>
+<最主要一開始查到的YOLO detection網站> https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/ </br>
+<openCV官網> https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html </br>
+<stack overflow裡教我們按frame計時的網站> https://stackoverflow.com/questions/2017843/fetch-frame-count-with-ffmpeg </br>
+
+## Work Distribution
+
+
