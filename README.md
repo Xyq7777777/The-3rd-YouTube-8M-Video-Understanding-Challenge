@@ -102,6 +102,8 @@ We are still learining how to detect real time objects.
 
 ![Image text](https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/master/601_7.jpg)
 
+![Image text](https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/master/601_5.png)
+
 ### Pop out Labeled Sections 
 
    We had the script read the timing text file (in sprint 2) after processing to know which sections to show automatically. Therefore, users should see the sections of desired keyword directly after closing the UI window and the whole processed video can also be accessed manually within the same folder.
