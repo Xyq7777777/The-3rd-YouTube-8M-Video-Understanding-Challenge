@@ -118,6 +118,12 @@ We are still learining how to detect real time objects.
 
 ![Image text](https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/master/601_3.png)
 
+## Notice
+
+1. sprint3.py is the final version of our script </br>
+2. Our coco model could be downloaded at https://drive.google.com/file/d/1alVcga-HhMWdLM7CsP1jGLFD5Y6Rpumg/view?usp=sharing
+3. Put any video you want to anlalyze along with above files under a same folder
+
 ## Reference
 1. YOLO website with different generations and link to coco dataset https://pjreddie.com/darknet/yolo/ </br>
 2. Tutorial on training https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/ </br>
