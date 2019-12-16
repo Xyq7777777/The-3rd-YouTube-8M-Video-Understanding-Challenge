@@ -90,7 +90,9 @@ We are still learining how to detect real time objects.
 
 ### Timing Return
 
-   Having the ability to identify keyword-only objects, we would like to mark down the specific timing and return to users. In this part, we had the main python script store a list containing all timing and then print the list onto a text file. The ffmpeg library is , thereby, included. The algorithm can actuall identify timing in millisecond scale (since we are counting by the frame number), but we made it round to second scale because of the practical use. For the future step, pop out the desired sections, we may use this text file to help our algorithm fulfill the goal.    
+   Having the ability to identify keyword-only objects, we would like to mark down the specific timing and return to users. In this part, we had the main python script store a list containing all timing and then print the list onto a text file. The ffmpeg library is , thereby, included. The algorithm can actuall identify timing in millisecond scale (since we are counting by the frame number), but we made it round to second scale because of the practical use. For the future step, pop out the desired sections, we may use this text file to help our algorithm fulfill the goal.
+
+![Image text](https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/master/cut.png)
 
 ## Sprint 3
 
