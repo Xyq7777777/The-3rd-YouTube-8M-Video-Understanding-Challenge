@@ -123,6 +123,7 @@ We are still learining how to detect real time objects.
 1. sprint3.py is the final version of our script </br>
 2. Our coco model could be downloaded at https://drive.google.com/file/d/1alVcga-HhMWdLM7CsP1jGLFD5Y6Rpumg/view?usp=sharing
 3. Put any video you want to anlalyze along with above files under a same folder
+4. Two sample input videos are provided at https://drive.google.com/file/d/14k2KS_UYP4g8rM-tudEUKhZHud_EFiT6/view?usp=sharing and https://drive.google.com/file/d/1rTA7TrH93wnPREIaIfN9LPKTtpEHpWxu/view?usp=sharing
 
 ## Reference
 1. YOLO website with different generations and link to coco dataset https://pjreddie.com/darknet/yolo/ </br>
