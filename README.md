@@ -73,14 +73,15 @@ I followed the Training YOLO on COCO part:
 
 conclusion  
 I have met few error:
-
+- Darknet error 
+<img src= "https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/XYQ/darkneterror.jpg">
 
 
 ### 2. Yolo-v3 and Yolo-v2 for Windows and Linux  
 https://github.com/AlexeyAB/darknet  
 The following part are the steps I followed:  
 
-### How to train (to detect your custom objects):
+How to train (to detect your custom objects):
 (to train old Yolo v2 yolov2-voc.cfg, yolov2-tiny-voc.cfg, yolo-voc.cfg, yolo-voc.2.0.cfg, ... click by the link)
 
 Training Yolo v3:
