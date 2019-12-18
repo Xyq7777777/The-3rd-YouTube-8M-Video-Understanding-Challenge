@@ -65,6 +65,7 @@ For sprint, I was trying to do the model training. I have tried several method w
 ### 1. YOLO offical website  
 https://pjreddie.com/darknet/yolo/  
 
+#### Steps I followed
 I followed the Training YOLO on COCO part:  
 - Download the darknet 
 <img src= "https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/XYQ/darknet.jpg">
@@ -74,7 +75,7 @@ I followed the Training YOLO on COCO part:
 - Train the model  
 <img src= "https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/XYQ/training process.jpg">
 
-conclusion  
+#### Conclusion  
 I have met a few errors:
 - Darknet error: Solved by search the new darnet53.conv.74
 <img src= "https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/XYQ/darkneterror.jpg">
@@ -88,7 +89,7 @@ This is the improved version for the offical website
 The github link is:  
 https://github.com/AlexeyAB/darknet  
 
-The following part are the steps I followed:  
+#### Steps I followed:  
 
 How to train (to detect your custom objects):
 (to train old Yolo v2 yolov2-voc.cfg, yolov2-tiny-voc.cfg, yolo-voc.cfg, yolo-voc.2.0.cfg, ... click by the link)
@@ -184,5 +185,6 @@ Note: After training use such command for detection: darknet.exe detector test d
 
 Note: if error Out of memory occurs then in .cfg-file you should increase subdivisions=16, 32 or 64: link
 
+#### Conclusion
 All steps passed but some new errors apperars after using the command lines, which cannot solved in a short time.
 <img src= "https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/XYQ/newerror.jpg">
