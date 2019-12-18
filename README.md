@@ -84,7 +84,10 @@ I have met a few errors:
 
 
 ### 2. Yolo-v3 and Yolo-v2 for Windows and Linux  
+This is the improved version for the offical website  
+The github link is:  
 https://github.com/AlexeyAB/darknet  
+
 The following part are the steps I followed:  
 
 How to train (to detect your custom objects):
@@ -181,5 +184,5 @@ Note: After training use such command for detection: darknet.exe detector test d
 
 Note: if error Out of memory occurs then in .cfg-file you should increase subdivisions=16, 32 or 64: link
 
-Some new errors apperars after using the command lines, which cannot solved in a short time.
+All steps passed but some new errors apperars after using the command lines, which cannot solved in a short time.
 <img src= "https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/XYQ/newerror.jpg">
