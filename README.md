@@ -14,12 +14,6 @@ General public, researchers, merchants.
 
 Find out the information stored in non-literal format such as videos or photos which may be related to the keywords provided by users.
 
-#### User Interface Design for main user story if required
-
-It should have a place for users to enter the keywords and output the results containing the timing indicator for every possibly related video listed.
-
-### Product Survey
-
 #### Existing similar products
 
 The YOLO detection system: It's easy to process images, it runs a convolutional network on the image and thresholds the resulting detections by the module's confidence. It can predict what objects are present and where they are. Benefits: extremely fast, high precision, reasons globally about the image when making predictions.
@@ -58,7 +52,7 @@ S4. Carrying out bounding-box regression on the initial object window through a 
 
     YOLO is a type of open-source algorithm that everyone can develope their methods based on this frame. This will help us to build a object-detection-machine-learning-based system. We chose it because it is open-source. 
 
-#### Any test or verification programs
+#### Test or verification programs
 
 We are still learining how to detect real time objects.
 [https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/]
