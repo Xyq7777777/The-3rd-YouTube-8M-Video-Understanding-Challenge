@@ -62,21 +62,23 @@ We are still learining how to detect real time objects.
 ## Sprint 3 
 For sprint, I was trying to do the model training. I have tried several method which two of them are executable.
 
-1. YOLO offical website  
+### 1. YOLO offical website  
 https://pjreddie.com/darknet/yolo/  
 
 I followed the Training YOLO on COCO part:  
-- Download the darknet
-- Download the COCO data
-- Change the parameter 
-- Train the model
+- Download the darknet  
+- Download the COCO data  
+- Change the parameter   
+- Train the model  
 
-I have met few error:  
+conclusion  
+I have met few error:
 
 
-2. Yolo-v3 and Yolo-v2 for Windows and Linux  
+
+### 2. Yolo-v3 and Yolo-v2 for Windows and Linux  
 https://github.com/AlexeyAB/darknet  
-The following part is the steps I followed:  
+The following part are the steps I followed:  
 
 ### How to train (to detect your custom objects):
 (to train old Yolo v2 yolov2-voc.cfg, yolov2-tiny-voc.cfg, yolo-voc.cfg, yolo-voc.2.0.cfg, ... click by the link)
