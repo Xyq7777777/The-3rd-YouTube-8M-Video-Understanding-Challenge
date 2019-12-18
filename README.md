@@ -80,9 +80,9 @@ I followed the Training YOLO on COCO part.
 I have met few error 
 
 
-2. Yolo-v3 and Yolo-v2 for Windows and Linux
-https://github.com/AlexeyAB/darknet
-The following part is the steps I followed:
+2. Yolo-v3 and Yolo-v2 for Windows and Linux  
+https://github.com/AlexeyAB/darknet  
+The following part is the steps I followed:  
 
 ### How to train (to detect your custom objects):
 (to train old Yolo v2 yolov2-voc.cfg, yolov2-tiny-voc.cfg, yolo-voc.cfg, yolo-voc.2.0.cfg, ... click by the link)
