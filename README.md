@@ -70,9 +70,9 @@ I followed the Training YOLO on COCO part:
 <img src= "https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/XYQ/darknet.jpg">
 - Download the COCO data
 <img src= "https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/XYQ/download.jpg">
-- Change the parameter   
+- Change the parameter     
 - Train the model  
-<img src= "https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/XYQ/trainingprocess.jpg">
+<img src= "https://github.com/Xyq7777777/The-3rd-YouTube-8M-Video-Understanding-Challenge/blob/XYQ/training process.jpg">
 
 conclusion  
 I have met a few errors:
